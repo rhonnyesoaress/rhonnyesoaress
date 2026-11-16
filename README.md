@@ -4,7 +4,6 @@ Estudante de **Ciência da Computação na UFPB** (conclusão em dez/2026), em J
 Trabalho com **dados e desenvolvimento**: pipelines com dados de satélite, modelos de machine learning e sistemas web para a saúde pública.
 
 🎯 **Interesses:** Engenharia e Análise de Dados · Machine Learning · IA aplicada à Segurança
-📚 **Estudando agora:** AWS Cloud Practitioner
 
 ---
 
